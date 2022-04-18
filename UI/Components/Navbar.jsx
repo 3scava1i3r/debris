@@ -18,6 +18,10 @@ function Navbar() {
         <a>Market</a>
       </Link>
 
+      <Link href="/create">
+        <a>Market</a>
+      </Link>
+
       
     </>
   );

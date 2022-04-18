@@ -25,7 +25,7 @@ const dashboard = () => {
       <div>
         <Navbar />
         <Title>hahaha</Title>
-        <Main>Click here for a random spaceship shell</Main>
+        <Main>My Dashboard section</Main>
         <ClickMe>Let's check you luck! muhawahhaah</ClickMe>
 
       </div>
